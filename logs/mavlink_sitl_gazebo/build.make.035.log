@@ -1,0 +1,11 @@
+[ 36%] Built target mav_msgs
+[ 41%] Built target LiftDragPlugin
+[ 50%] Built target rotors_gazebo_mavlink_interface
+[ 55%] Built target rotors_gazebo_imu_plugin
+[ 61%] Built target rotors_gazebo_multirotor_base_plugin
+[ 66%] Built target rotors_gazebo_motor_model
+[ 72%] Built target rotors_gazebo_controller_interface
+[ 77%] Built target rotors_gazebo_gimbal_controller_plugin
+[ 83%] Built target gripper_plugin
+[ 88%] Built target gazebo_lidar_plugin
+[100%] Built target gazebo_opticalFlow_plugin

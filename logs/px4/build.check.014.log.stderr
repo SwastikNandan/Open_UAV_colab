@@ -1,0 +1,9 @@
+[31m[1mCMake Error[0m at /home/swastik/catkin_ws/build/px4/CMakeFiles/3.5.1/CMakeSystem.cmake:6 (include):
+  include could not find load file:
+
+    /home/swastik/catkin_ws/src/Firmware/cmake/toolchains/Toolchain-native.cmake
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:190 (project)
+
+
+make: *** [cmake_check_build_system] Error 1

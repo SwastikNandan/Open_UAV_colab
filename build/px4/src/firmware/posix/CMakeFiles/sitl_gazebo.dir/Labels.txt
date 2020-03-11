@@ -1,0 +1,13 @@
+# Target labels
+ sitl_gazebo
+# Source files and their labels
+/home/swastik/catkin_ws/build/px4/src/firmware/posix/CMakeFiles/sitl_gazebo
+/home/swastik/catkin_ws/build/px4/src/firmware/posix/CMakeFiles/sitl_gazebo.rule
+/home/swastik/catkin_ws/build/px4/src/firmware/posix/CMakeFiles/sitl_gazebo-complete.rule
+/home/swastik/catkin_ws/build/px4/external/Stamp/sitl_gazebo/sitl_gazebo-install.rule
+/home/swastik/catkin_ws/build/px4/external/Stamp/sitl_gazebo/sitl_gazebo-mkdir.rule
+/home/swastik/catkin_ws/build/px4/external/Stamp/sitl_gazebo/sitl_gazebo-download.rule
+/home/swastik/catkin_ws/build/px4/external/Stamp/sitl_gazebo/sitl_gazebo-update.rule
+/home/swastik/catkin_ws/build/px4/external/Stamp/sitl_gazebo/sitl_gazebo-patch.rule
+/home/swastik/catkin_ws/build/px4/external/Stamp/sitl_gazebo/sitl_gazebo-configure.rule
+/home/swastik/catkin_ws/build/px4/external/Stamp/sitl_gazebo/sitl_gazebo-build.rule

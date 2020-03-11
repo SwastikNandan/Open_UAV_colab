@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/swastik/catkin_ws/devel/.private/px4/lib/libmodules__param.a  CMakeFiles/modules__param.dir/px4_parameters.c.o
+/usr/bin/ranlib /home/swastik/catkin_ws/devel/.private/px4/lib/libmodules__param.a

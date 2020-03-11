@@ -1,0 +1,32 @@
+CMake Error: The following variables are used in this project, but they are set to NOTFOUND.
+Please set them or make sure they are set and tested correctly in the CMake files:
+GSTREAMER_LIBRARIES (ADVANCED)
+    linked by target "LiftDragPlugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_gst_camera_plugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_barometer_plugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_wind_plugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_geotagged_images_plugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_magnetometer_plugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "sensor_msgs" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "nav_msgs" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "std_msgs" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_gps_plugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_sonar_plugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "mav_msgs" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_irlock_plugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_video_stream_widget" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_controller_interface" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_lidar_plugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_opticalflow_plugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_mavlink_interface" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_uuv_plugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_vision_plugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_multirotor_base_plugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_imu_plugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_gimbal_controller_plugin" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "physics_msgs" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_motor_model" in directory /home/swastik/catkin_ws/src/sitl_gazebo
+    linked by target "gazebo_gimbal_controller_plugin_test" in directory /home/swastik/catkin_ws/src/sitl_gazebo/unit_tests
+    linked by target "gazebo_gps_plugin_test" in directory /home/swastik/catkin_ws/src/sitl_gazebo/unit_tests
+
+make: *** [cmake_check_build_system] Error 1

@@ -1,0 +1,24 @@
+[36m--[0m posix-sitl-default
+[36m--[0m CMAKE_INSTALL_PREFIX: /home/swastik/catkin_ws/install
+[36m--[0m cmake module path: /home/swastik/catkin_ws/src/Firmware/cmake
+[36m--[0m catkin ENABLED
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/swastik/catkin_ws/devel/.private/px4
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/swastik/catkin_ws/devel;/home/swastik/catkin_ws2/devel;/opt/ros/kinetic
+[36m--[0m This workspace overlays: /home/swastik/catkin_ws/devel;/home/swastik/catkin_ws2/devel;/opt/ros/kinetic
+[36m--[0m Found PythonInterp: /usr/bin/python (found version "2.7.12")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/swastik/catkin_ws/build/px4/test_results
+[36m--[0m Found gtest sources under '/usr/src/gmock': gtests will be built
+[36m--[0m Found gmock sources under '/usr/src/gmock': gmock will be built
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.20
+[36m--[0m BUILD_SHARED_LIBS is off
+[36m--[0m Found PythonInterp: /usr/bin/python (found suitable version "2.7.12", minimum required is "2.7")
+[36m--[0m GIT_TAG = multi-uav-117-g800b755
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /home/swastik/catkin_ws/build/px4

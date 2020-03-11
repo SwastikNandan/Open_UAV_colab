@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/swastik/catkin_ws/src/Firmware/src/drivers/vmount/vmount_params.c
+px4_config.h
+-
+systemlib/param/param.h
+-
+
+/home/swastik/catkin_ws/src/Firmware/src/modules/systemlib/param/param.h
+stdint.h
+-
+stdbool.h
+-
+sys/types.h
+-
+
+/home/swastik/catkin_ws/src/Firmware/src/platforms/posix/include/board_config.h
+
+/home/swastik/catkin_ws/src/Firmware/src/platforms/px4_config.h
+nuttx/config.h
+-
+board_config.h
+-
+px4_micro_hal.h
+/home/swastik/catkin_ws/src/Firmware/src/platforms/px4_micro_hal.h
+
+/home/swastik/catkin_ws/src/Firmware/src/platforms/px4_micro_hal.h
+

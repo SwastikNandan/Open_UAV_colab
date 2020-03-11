@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/swastik/catkin_ws/devel/.private/px4/lib/libexamples__attitude_estimator_ekf.a  CMakeFiles/examples__attitude_estimator_ekf.dir/attitude_estimator_ekf_main.cpp.o CMakeFiles/examples__attitude_estimator_ekf.dir/codegen/AttitudeEKF.c.o
+/usr/bin/ranlib /home/swastik/catkin_ws/devel/.private/px4/lib/libexamples__attitude_estimator_ekf.a

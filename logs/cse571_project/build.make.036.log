@@ -1,0 +1,21 @@
+[  0%] Built target _cse571_project_generate_messages_check_deps_CheckEdge
+[  0%] Built target _cse571_project_generate_messages_check_deps_GetPossibleStates
+[  0%] Built target _cse571_project_generate_messages_check_deps_ResetWorldMsg
+[  0%] Built target _cse571_project_generate_messages_check_deps_GetActions
+[  0%] Built target _cse571_project_generate_messages_check_deps_IsTerminalState
+[  0%] Built target _cse571_project_generate_messages_check_deps_GetPossibleActions
+[  0%] Built target _cse571_project_generate_messages_check_deps_GetReward
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _cse571_project_generate_messages_check_deps_ActionMsg
+[  0%] Built target _cse571_project_generate_messages_check_deps_GetInitialState
+[  0%] Built target _cse571_project_generate_messages_check_deps_RemoveBlockedEdgeMsg
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[ 19%] Built target cse571_project_generate_messages_cpp
+[ 40%] Built target cse571_project_generate_messages_py
+[ 59%] Built target cse571_project_generate_messages_nodejs
+[ 78%] Built target cse571_project_generate_messages_lisp
+[100%] Built target cse571_project_generate_messages_eus
+[100%] Built target cse571_project_generate_messages

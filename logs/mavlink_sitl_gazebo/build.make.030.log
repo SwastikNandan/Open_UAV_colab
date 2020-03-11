@@ -1,0 +1,23 @@
+[ 36%] Built target mav_msgs
+[ 41%] Built target LiftDragPlugin
+[ 50%] Built target rotors_gazebo_mavlink_interface
+[ 55%] Built target rotors_gazebo_imu_plugin
+[ 61%] Built target rotors_gazebo_multirotor_base_plugin
+[ 66%] Built target rotors_gazebo_motor_model
+[ 72%] Built target rotors_gazebo_controller_interface
+[ 77%] Built target rotors_gazebo_gimbal_controller_plugin
+[ 83%] Built target gripper_plugin
+[ 88%] Built target gazebo_lidar_plugin
+[ 91%] [32mBuilding CXX object CMakeFiles/gazebo_opticalFlow_plugin.dir/src/gazebo_opticalFlow_plugin.cpp.o[0m
+In file included from [01m[K/usr/include/gazebo-7/gazebo/rendering/ogre_gazebo.h:61:0[m[K,
+                 from [01m[K/usr/include/gazebo-7/gazebo/rendering/Camera.hh:50[m[K,
+                 from [01m[K/home/swastik/catkin_ws/src/sitl_gazebo/include/gazebo_opticalFlow_plugin.h:26[m[K,
+                 from [01m[K/home/swastik/catkin_ws/src/sitl_gazebo/src/gazebo_opticalFlow_plugin.cpp:24[m[K:
+[01m[K/usr/include/OGRE/Terrain/OgreTerrainPaging.h:33:35:[m[K [01;31m[Kfatal error: [m[KOgrePagedWorldSection.h: No such file or directory
+compilation terminated.
+CMakeFiles/gazebo_opticalFlow_plugin.dir/build.make:110: recipe for target 'CMakeFiles/gazebo_opticalFlow_plugin.dir/src/gazebo_opticalFlow_plugin.cpp.o' failed
+make[2]: *** [CMakeFiles/gazebo_opticalFlow_plugin.dir/src/gazebo_opticalFlow_plugin.cpp.o] Error 1
+CMakeFiles/Makefile2:1045: recipe for target 'CMakeFiles/gazebo_opticalFlow_plugin.dir/all' failed
+Makefile:160: recipe for target 'all' failed
+make[1]: *** [CMakeFiles/gazebo_opticalFlow_plugin.dir/all] Error 2
+make: *** [all] Error 2

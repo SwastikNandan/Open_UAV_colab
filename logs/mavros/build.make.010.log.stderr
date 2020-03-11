@@ -1,0 +1,3 @@
+make[2]: *** No rule to make target '/opt/ros/kinetic/lib/liborocos-kdl.so.1.3.0', needed by '/home/swastik/catkin_ws/devel/.private/mavros/lib/libmavros.so'.  Stop.
+make[1]: *** [CMakeFiles/mavros.dir/all] Error 2
+make: *** [all] Error 2
